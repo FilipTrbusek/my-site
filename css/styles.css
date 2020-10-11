@@ -65,7 +65,7 @@ p {
 .chilli-pepper-gif {
     float: right;
     margin-left: 30px;
-    width: 20%;
+    width: 15%;
 }
 
 .skill-row {
@@ -177,16 +177,10 @@ a:hover {
         width: 15%;
     }
     
-    .skill-row1 {
-        margin: 100px auto;
+    .skill-row {
+        margin: 50px auto 150px auto;
         text-align: left;
-        width: 50%;
-    }
-
-    .skill-row2 {
-        margin: 200px auto;
-        text-align: left;
-        width: 50%;
+        width: 40%;
     }
 
     .contact-me {
