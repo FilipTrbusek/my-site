@@ -140,4 +140,56 @@ a:hover {
     color: #EAF6F6;
 }
 
+/*  ***********************************************************************************************  */
 
+
+@media only screen and (min-width: 1920px) {
+    
+    h1 {
+        padding: 85px 0 20px 0;
+        font-size: 6rem;
+    }
+    
+    h2 {
+        font-size: 2.9rem;
+        padding: 20px 0;
+    }
+    
+    .top-cloud {
+        right: 400px;
+        top: 100px;
+    }
+    
+    .bottom-cloud {
+        left: 400px;
+    }
+    
+    .middle-container {
+        margin: 0;
+    }
+
+    .profile {
+        padding: 100px 0 200px 0;
+    }
+    
+    
+    .chilli-pepper-gif {
+        width: 15%;
+    }
+    
+    .skill-row1 {
+        margin: 100px auto;
+        text-align: left;
+        width: 50%;
+    }
+
+    .skill-row2 {
+        margin: 200px auto;
+        text-align: left;
+        width: 50%;
+    }
+
+    .contact-me {
+        margin-bottom: 250px;
+    }
+  }
